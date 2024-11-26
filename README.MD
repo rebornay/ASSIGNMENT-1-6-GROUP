@@ -1,1 +1,1 @@
-This covers assignment 1-4, all done with HTML and CSS
+This covers assignment 1-6, all done with HTML and CSS
